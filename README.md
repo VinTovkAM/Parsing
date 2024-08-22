@@ -21,10 +21,6 @@ python main.py
 
 Далее, в папке программы появится файл `game.xlsx` - это и есть парсинг матчей. 
 
-Если, что-то не понятно кликнете [здесь](https://www.youtube.com/watch?v=EItCVBiHb20) и посмотрите видеоролик.
-
-:exclamation: Если Вы из России, то скачайте [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) и следуйте инструкции по его эксплуатации.
-
 ### Цели проекта
 
 Проект сделать в образовательных целях для курса по Python на сайте [Devman](https://dvmn.org/).
