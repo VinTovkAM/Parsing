@@ -22,7 +22,7 @@ def main():
     columns_name = ['status', 'team_1', 'team_2', 'g_1', 'g_2', 'none_0']
     drop_col = 'none_0'
     result = pd.DataFrame(match_sp, columns = columns_name)
-    result = result.drop(drop_col, axis = 1)
+    result = result.drop(drop_col, axis=1)
     result.to_excel('game.xlsx', index=False)
     driver.quit()
 
